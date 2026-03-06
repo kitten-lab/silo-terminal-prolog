@@ -16,4 +16,4 @@ python3 prototype/smh.py
 ## Status
 
 This project is an early prototype and work in progress.
-The goal is explore the mechanics of parser-based adventure games through and internal, rather than external, lens. Using verbs like think and remember, the player will generate the world around them using only their cognition.
+The goal is explore the mechanics of parser-based adventure games through an internal, rather than external, lens. Using verbs like think and remember, the player will generate the world around them using only their cognition.

@@ -1,4 +1,10 @@
-# Silo Terminal Prolog
+```
+ ___ _  _       ___                 _   _   _      _   __ 
+  | |_ |_) |\/|  |  |\ |  /\  |    |_) |_) / \ |  / \ /__ 
+  | |_ | \ |  | _|_ | \| /--\ |_   |   | \ \_/ |_ \_/ \_| 
+                                                          
+```
+Silo Terminal Prolog
 
 / an experimental terminal-based narrative prototype.
 / identity, and recursive thinking mechanics.
